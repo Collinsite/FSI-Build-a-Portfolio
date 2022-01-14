@@ -1,0 +1,14 @@
+body {
+  background-color: cadetblue;
+  font-family: Times "Times New Roman", Times, serif, Arial, Helvetica,
+    sans-serif;
+  cursor: cell;
+}
+image {
+  border-radius: 3px;
+  border-color: chocolate;
+  align: center;
+}
+#Name {
+  text-align: center;
+}
