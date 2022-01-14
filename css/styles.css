@@ -4,10 +4,11 @@ body {
     sans-serif;
   cursor: cell;
 }
-image {
-  border-radius: 3px;
+img {
+  border: 3px solid;
   border-color: chocolate;
-  align: center;
+  border-radius: 8px;
+  box-align: center;
 }
 #Name {
   text-align: center;
