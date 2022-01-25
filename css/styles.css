@@ -6,7 +6,7 @@ body {
 }
 img {
   border: 3px solid;
-  border-color: chocolate;
+  border-color: rgb(72, 210, 30);
   border-radius: 8px;
   box-align: center;
 }
